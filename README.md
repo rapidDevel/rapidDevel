@@ -1,7 +1,7 @@
 # Hi there, I'm [Your Name] 👋
 
 ## 🚀 About Me
-Software Team Manager & Linux System Administrator with [X] years of experience leading development teams and managing enterprise infrastructure.
+Software Team Manager having experience on Linux System Administrator with [X] years of experience leading development teams and managing enterprise infrastructure.
 
 ## 💼 Expertise Areas
 

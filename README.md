@@ -51,9 +51,9 @@ Software Team Manager having experience on Linux System Administrator with [X] y
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn]
-- Email: your.email@example.com
-- Website: [Your Website]
+- LinkedIn: 
+- Email: rapid.devel@gmail.com
+- Website: 
 
 ---
 ⭐️ From [YourUsername](https://github.com/YourUsername)

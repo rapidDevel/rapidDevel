@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Md. Nurul Kadir 👋
 
 ## 🚀 About Me
 Software Team Manager having experience on Linux System Administrator with [X] years of experience leading development teams and managing enterprise infrastructure.

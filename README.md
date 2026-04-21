@@ -1,7 +1,7 @@
 # Hi there, I'm Md. Nurul Kadir 👋
 
 ## 🚀 About Me
-Software Team Manager having experience on Linux System Administrator with [X] years of experience leading development teams and managing enterprise infrastructure.
+Software Team Manager having experience on Linux System Administrator with 18 years of experience leading development teams and managing enterprise infrastructure.
 
 ## 💼 Expertise Areas
 
@@ -48,7 +48,7 @@ Software Team Manager having experience on Linux System Administrator with [X] y
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rapidDevel&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - LinkedIn: 
